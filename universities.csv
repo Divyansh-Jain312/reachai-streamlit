@@ -1,0 +1,31 @@
+name,country,field,description
+Stanford University,USA,AI,"Known for its strong research in deep learning, NLP, and robotics."
+ETH Zurich,Switzerland,Engineering,Top technical university with strengths in autonomous systems and AI.
+University of Toronto,Canada,Computer Science,"Excellent in machine learning and AI, with research in computer vision and NLP."
+Imperial College London,UK,AI,"Offers advanced courses in applied AI, deep learning, and ethics."
+TUM,Germany,Technology,"Focuses on AI in robotics, automation, and low-cost innovation."
+MIT,USA,AI,"Leads global innovation in artificial intelligence, computer vision, and intelligent systems."
+University of Oxford,UK,Data Science,"Renowned for research in data ethics, big data analysis, and machine learning."
+Carnegie Mellon University,USA,AI,"Pioneer in AI, robotics, and software agents with extensive research labs."
+University of Cambridge,UK,AI,"Strong focus on probabilistic models, natural language processing, and cognitive computing."
+EPFL,Switzerland,Data Science,Cutting-edge data science program with applied machine learning projects.
+University of Edinburgh,UK,AI,"Specializes in computational linguistics, deep learning, and machine learning theory."
+McGill University,Canada,Computer Science,Offers AI tracks with focus on reinforcement learning and intelligent systems.
+University of Melbourne,Australia,Data Science,"Combines statistics, programming, and ML for real-world data problems."
+Georgia Tech,USA,AI,"Known for AI in healthcare, autonomous vehicles, and human-centered design."
+National University of Singapore,Singapore,AI,"AI research in smart cities, computer vision, and algorithm design."
+Peking University,China,Data Science,"Emphasizes data mining, applied statistics, and AI algorithms."
+KAIST,South Korea,AI,"Research in AI systems, robotics, and smart manufacturing."
+Seoul National University,South Korea,Technology,Advanced AI applications in electronics and real-time processing.
+University of Queensland,Australia,AI,"Focuses on neural networks, NLP, and visual recognition."
+HKUST,Hong Kong,Engineering,"Strong programs in robotics, autonomous systems, and signal processing."
+RWTH Aachen University,Germany,AI,"Industrial AI, automation, and deep learning applications."
+University of Helsinki,Finland,Computer Science,"Focus on ethical AI, machine learning, and real-world implementation."
+University of Tokyo,Japan,AI,"Advanced R&D in artificial intelligence, speech recognition, and robotics."
+UCL,UK,Data Science,"Data science and AI used in healthcare, finance, and public policy."
+Cornell University,USA,AI,"Research in multi-agent systems, reinforcement learning, and fairness in AI."
+University of British Columbia,Canada,AI,"Known for NLP, AI policy research, and ethical frameworks."
+Politecnico di Milano,Italy,AI,"Emphasizes computer vision, intelligent systems, and automation."
+University of Copenhagen,Denmark,AI,Research in explainable AI and cross-disciplinary data science.
+KU Leuven,Belgium,Data Science,Strong integration of AI with bioinformatics and healthcare analytics.
+Osaka University,Japan,Technology,AI and IoT applied to human-computer interaction and robotics.
